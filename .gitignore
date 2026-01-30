@@ -1,0 +1,43 @@
+# General Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+*.log
+*.pot
+*.pyc
+*.pdb
+*.coverage
+*.tox
+*.nox
+*.hypothesis
+*.pytest_cache
+*.coverage.*
+
+# Virtualenv
+.venv/
+venv/
+env/
+ENV/
+
+# Node modules (for React)
+node_modules/
+
+# Build output for React (production)
+build/
+dist/
+.cache/
+
+# Environment variables (sensitive info like DB credentials, etc)
+.env
+
+# VSCode settings
+.vscode/
+
+# MacOS specific
+.DS_Store
+
+# Windows specific
+Thumbs.db

@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+langchain==1.2.6
+langchain-community
+langchain-core
+psycopg2-binary
+sentence-transformers
+python-dotenv
+langchain-postgres
+langchain-huggingface
+langchain-ollama
+langchain-text-splitters

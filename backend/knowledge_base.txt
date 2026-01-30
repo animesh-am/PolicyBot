@@ -1,0 +1,198 @@
+1. Purpose and Scope
+
+The purpose of this document is to define the policies, responsibilities, and operational boundaries of the Company IT Helpdesk. The IT Helpdesk exists to ensure that all employees have reliable, secure, and efficient access to company-approved technology resources required to perform their job functions.
+
+This policy applies to all full-time employees, contractors, interns, consultants, and temporary staff who are granted access to company IT systems, networks, devices, and software. Compliance with this policy is mandatory and failure to adhere may result in disciplinary action, access restrictions, or termination of services.
+
+The IT Helpdesk provides support strictly for company-owned systems and approved applications. Personal devices, personal software, or non-business-related technology requests fall outside the scope of this policy.
+
+2. IT Helpdesk Operating Hours
+
+The IT Helpdesk operates during standard business hours, Monday through Friday, excluding company-recognized holidays.
+
+Support requests submitted outside operating hours will be logged and addressed on the next business day, unless the issue is classified as a critical incident affecting core business operations.
+
+Critical incidents include:
+
+Company-wide system outages
+
+Security breaches or suspected cyberattacks
+
+Network downtime affecting multiple departments
+
+Loss of access to core enterprise systems
+
+3. Supported Devices and Systems
+
+The IT Helpdesk provides support only for company-issued and company-approved devices, including but not limited to:
+
+Laptops and desktops issued by the company
+
+Company-managed mobile devices
+
+Company network infrastructure
+
+Company email systems
+
+Enterprise applications approved by the IT department
+
+The IT Helpdesk does not provide support for:
+
+Personal laptops or mobile devices
+
+Home internet connections
+
+Personal email accounts
+
+Unauthorized or pirated software
+
+Devices altered without IT approval
+
+Employees are responsible for maintaining physical care of company-issued equipment and reporting any damage immediately.
+
+4. Password Management and Account Access
+4.1 Password Reset Policy
+
+Employees who forget their corporate login credentials may request a password reset through the IT Helpdesk. Identity verification is mandatory before any credentials are reset. Verification may include employee ID confirmation, security questions, or manager approval.
+
+Passwords must comply with company security standards, including minimum length, complexity requirements, and expiration rules.
+
+4.2 Account Lockouts
+
+Accounts may be temporarily locked due to multiple failed login attempts or suspected security threats. The IT Helpdesk will unlock accounts only after verifying the identity of the user and confirming no malicious activity has occurred.
+
+Employees must never share passwords with colleagues, managers, or IT personnel.
+
+5. Software Installation and Licensing
+
+Only software approved and licensed by the company may be installed on company-owned devices.
+
+5.1 Approved Software
+
+The IT department maintains an approved software list that includes productivity tools, development tools, collaboration platforms, and security software. Employees may request access to approved software through the IT Helpdesk.
+
+5.2 New Software Requests
+
+Requests for new or additional software must include:
+
+Business justification
+
+Manager approval
+
+Security and compliance review
+
+The IT department reserves the right to deny software requests that pose security, legal, or licensing risks.
+
+Unauthorized installation of software is strictly prohibited.
+
+6. Network and Internet Usage
+6.1 Network Access
+
+Employees are granted network access based on job role and business requirements. Access levels are reviewed periodically and adjusted as needed.
+
+Remote employees must use the company-approved Virtual Private Network (VPN) to access internal systems.
+
+6.2 Internet Usage Policy
+
+Company internet access is provided for business purposes. Limited personal use is permitted as long as it does not interfere with work responsibilities or violate company policies.
+
+Prohibited activities include:
+
+Accessing illegal or inappropriate content
+
+Downloading unauthorized files
+
+Engaging in activities that compromise network security
+
+7. Email and Communication Systems
+
+Company email and communication tools are provided for official business use.
+
+Employees must:
+
+Use company email for work-related communication
+
+Avoid sharing confidential information with unauthorized recipients
+
+Report phishing or suspicious emails immediately
+
+The IT Helpdesk will assist with email access issues, configuration problems, and suspected security incidents.
+
+8. Security and Data Protection
+8.1 Information Security Responsibilities
+
+Employees are responsible for protecting company data and systems. This includes following security guidelines, using strong passwords, and reporting security incidents promptly.
+
+8.2 Phishing and Malware
+
+Suspicious emails, links, or attachments must be reported to the IT security team immediately. Employees must not attempt to investigate or resolve suspected malware issues independently.
+
+8.3 Data Loss Prevention
+
+Sensitive data must be stored only in approved systems. Use of external storage devices requires prior IT approval.
+
+9. Incident Reporting and Resolution
+9.1 Incident Categories
+
+IT incidents are categorized as:
+
+Critical: Immediate business impact
+
+High: Significant disruption to productivity
+
+Medium: Limited user impact
+
+Low: Minor issues or general requests
+
+Response times vary based on incident severity.
+
+9.2 User Responsibilities
+
+Employees must provide accurate and complete information when reporting issues, including screenshots, error messages, and steps already taken.
+
+Deliberate misuse of IT systems or repeated false reports may result in disciplinary action.
+
+10. Hardware Issues and Replacement
+10.1 Hardware Malfunctions
+
+Employees experiencing hardware issues must report them immediately. Attempting unauthorized repairs is prohibited.
+
+10.2 Lost or Stolen Devices
+
+Lost or stolen company devices must be reported to the IT Helpdesk and the employee’s manager immediately. Failure to report promptly may result in liability.
+
+11. Change Management
+
+The IT department manages all changes to systems, infrastructure, and applications. Employees must not make configuration changes without approval.
+
+Planned maintenance and system upgrades will be communicated in advance whenever possible.
+
+12. User Training and Awareness
+
+The IT Helpdesk may provide training materials, guidelines, and awareness programs to educate employees on best practices, security risks, and system usage.
+
+Participation in mandatory IT training programs is required.
+
+13. Compliance and Auditing
+
+IT systems are subject to monitoring, logging, and auditing to ensure compliance with company policies and regulatory requirements.
+
+Employees should have no expectation of privacy when using company-owned systems.
+
+14. Policy Violations
+
+Violations of this policy may result in:
+
+Temporary or permanent access revocation
+
+Disciplinary action
+
+Legal consequences where applicable
+
+The IT department reserves the right to take immediate action to protect company systems.
+
+15. Policy Updates and Review
+
+This IT Helpdesk Policy is reviewed periodically and updated as required. Continued use of company IT resources constitutes acceptance of the latest version of this policy.
+
+Employees are encouraged to stay informed of policy changes and contact the IT Helpdesk with any questions regarding compliance or usage.
